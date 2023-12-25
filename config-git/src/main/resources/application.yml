@@ -6,3 +6,5 @@ spring:
           uri: https://github.com/ranidu-harshana/MICROSERVICE
           search-paths:
             - 'configuration-store/*service'
+          # username: ranidu-harshana
+          # password: ranidu-harshana
