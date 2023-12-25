@@ -3,6 +3,6 @@ spring:
     config:
       server:
         git:
-          uri: 
+          uri: https://github.com/ranidu-harshana/MICROSERVICE
           search-paths:
-            - '*service'
+            - 'configuration-store/*service'
